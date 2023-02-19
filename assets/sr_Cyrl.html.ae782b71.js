@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-330c9042","path":"/statuses/sr_Cyrl.html","title":"sr_Cyrl","lang":"en-US","frontmatter":{"editLink":false},"excerpt":"","headers":[{"level":3,"title":"json","slug":"json","link":"#json","children":[]}],"git":{"updatedTime":1676733985000},"filePathRelative":"statuses/sr_Cyrl.md"}');export{e as data};
